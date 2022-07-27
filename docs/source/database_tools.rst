@@ -14,3 +14,5 @@ Open an existing database
 
 Remove database
 ===============
+.. autosummary::
+   :toctree: generated
