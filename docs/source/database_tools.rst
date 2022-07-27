@@ -1,7 +1,13 @@
-Usage
-=====
+Create a new database
+=====================
+New file database
+-----------------
 
-.. autosummary::
-   :toctree: generated
+New document database
+---------------------
 
-   datatex
+Open an existing database
+=========================
+
+Remove database
+===============
