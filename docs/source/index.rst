@@ -4,12 +4,18 @@ Welcome to DataTex documentation!
 **DataTex** is a tool for creating and managing databases of LaTex files and documents.
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
    This project is under active development.
+
+Contents
+--------
+
+   1. Database tools
+   2. Files database
+   3. Document database
+   4. Bibliography database
+   5. Settings
 
 Contents
 --------
