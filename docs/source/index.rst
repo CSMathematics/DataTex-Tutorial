@@ -22,5 +22,9 @@ Contents
 
 .. toctree::
 
-   Usage
-   API
+   Database tools
+   File databases
+   Document databases
+   Bibliography
+   Settings
+   About
