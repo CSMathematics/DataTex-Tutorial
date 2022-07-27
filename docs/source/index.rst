@@ -22,7 +22,7 @@ Contents
 
 .. toctree::
 
-   Database tools
+   Database Tools
    File databases
    Document databases
    Bibliography
