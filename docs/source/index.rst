@@ -11,7 +11,7 @@ Welcome to DataTex documentation!
 Contents
 --------
 
-   1. Database tools
+   1. Database Tools
    2. Files database
    3. Document database
    4. Bibliography database
