@@ -33,6 +33,5 @@ Create a solution
 Clone file to another database
 ==============================
 
-.. autosummary::
-   :toctree: generated
+
    
