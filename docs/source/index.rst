@@ -22,4 +22,4 @@ Contents
 
 .. toctree::
 
-   Database Tools
+   database_tools
