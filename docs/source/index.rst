@@ -22,5 +22,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   database_tools
+   files_database
