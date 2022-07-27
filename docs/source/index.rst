@@ -23,3 +23,4 @@ Contents
 .. toctree::
 
    database_tools
+   files_database
