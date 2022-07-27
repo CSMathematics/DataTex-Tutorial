@@ -24,3 +24,4 @@ Contents
 
    database_tools
    files_database
+   docs_database
